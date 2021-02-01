@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Development/op3d_active/poco-1.10.1/Foundation/CMakeLists.txt
+C:/Development/op3d_active/poco-1.10.1/Foundation/cmake/PocoFoundationConfig.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/WriteBasicConfigVersionFile.cmake

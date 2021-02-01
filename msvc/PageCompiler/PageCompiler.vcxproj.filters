@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\PageCompiler\src\ApacheCodeWriter.cpp">
+      <Filter>Unknown\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\PageCompiler\src\CodeWriter.cpp">
+      <Filter>Unknown\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\PageCompiler\src\OSPCodeWriter.cpp">
+      <Filter>Unknown\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\PageCompiler\src\Page.cpp">
+      <Filter>Unknown\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\PageCompiler\src\PageCompiler.cpp">
+      <Filter>Unknown\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\PageCompiler\src\PageReader.cpp">
+      <Filter>Unknown\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Unknown">
+      <UniqueIdentifier>{D76B9E0D-1000-3B7F-9104-B10CB7E9A8AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Unknown\Source Files">
+      <UniqueIdentifier>{6AAD0786-171C-3FBC-B4AE-3E0EDFE51302}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
